@@ -1,3 +1,9 @@
 h1{
+    font-size:medium;
     text-align:center;
+}
+h2{
+    color:blue;
+    font-size:x-large;
+    font-family:'Times New Roman', Times, serif;
 }
