@@ -1,0 +1,33 @@
+section{
+    text-align:center;
+}
+a::after{
+    content:"|";
+}
+#imghead{
+    width:100%;
+    height:20em;
+
+}
+#imgfoot{
+    width:100%;
+    height:20em;
+    margin-top:2em;
+
+}
+h2{
+    color:blue;
+    font-size:x-large;
+    font-family:'Times New Roman', Times, serif;
+}
+p{
+    font-size:medium;
+
+    font-family:'Times New Roman', Times, serif;
+}
+h3{
+    text-align:right;
+    font-size:x-large;
+    color:blue;
+    font-family:'Times New Roman', Times, serif;
+}
