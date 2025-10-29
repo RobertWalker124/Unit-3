@@ -1,0 +1,45 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(255, 255, 255);
+    width:100%;
+    background-image: url(Images/fond.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#titre{
+    background-color:rgb(33, 216, 216);
+    text-align:center;
+}
+#sous-titre{
+    text-align:center;
+    font-style:italic;
+    font-weight:bold;
+    font-size:35px;
+    color:aquamarine;
+}
+.génie h2{
+    color:blueviolet
+}
+#texte{
+    text-align:center;
+    font-size:35px;
+    padding:30px;
+}
+#citation img{
+    width:7cm;
+    height:5cm;
+    padding:1em;
+}
+#génie p{
+     font-size: 28px;
+  width: 35em;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: justify;
+  line-height: 1.2;
+}
+.génie p:hover{
+    transform:scale(1.2);
+}
+.citation{
+    display:inline-flex;
+}
